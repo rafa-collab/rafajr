@@ -1,4 +1,4 @@
-## KNTNBOTWA
+## rafajr.dll
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/kntnbotwa
-> cd kntnbotwa
+> git clone https://github.com/benisadewa/rafajr.dll
+> cd rafajr.dll
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
 > bash install.sh
@@ -28,9 +28,9 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 # FITUR
 
 | KEADAAN       |               FITUR     |
-| :-----------: | :--------------------------------:  |
-|       ✅       |    PANTUN                         |
-|       ✅       | ANIMEPICT                         |
+| : -----------: | : --------------------------------: |
+| ✅ | PANTUN | PANTUN
+| ✅ | ANIMEPIK |
 |       ✅       | STICKER                           |
 |       ✅       | NULIS                             |
 |       ✅       | QUOTES                            |
